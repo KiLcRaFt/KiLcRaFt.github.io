@@ -1,4 +1,4 @@
-a{
+a {
     text-decoration: none;
     color: dodgerblue;
 }
@@ -7,21 +7,22 @@ a:hover {
     text-decoration: underline;
 }
 
-section{
+section {
     text-align: center;
     background: aliceblue;
-    text-size-adjust: auto;
 }
-img{
+
+img {
     border: 2px solid black;
     border-radius: 10px;
 }
-ul{
+
+ul {
     background: whitesmoke;
     border: 2px solid black;
 }
 
-body{
+body {
     background: gray;
-    text-align: center;
+    text-align: center; 
 }
