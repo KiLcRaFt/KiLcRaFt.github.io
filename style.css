@@ -1,0 +1,22 @@
+#a_MartinN{
+    text-decoration: none;
+    color: dodgerblue;
+}
+#a_MartinN:hover {
+    color: deepskyblue;
+    text-decoration: underline;
+}
+
+#section_MartinN{
+    text-align: center;
+    background: aliceblue;
+    text-size-adjust: auto;
+}
+.img_MartinN{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#ul_MartinN{
+    background: whitesmoke;
+    border: 2px solid black;
+}
